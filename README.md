@@ -32,3 +32,4 @@ local.properties에 ```apiKey="<YOUR_API_KEY_HERE>"```를 추가합니다.
 # Credits
 - [HACCP 제품이미지 및 포장지표기정보](https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15033307)
 - [LottieFiles - De Art Studio](https://lottiefiles.com/deartstudio)
+
